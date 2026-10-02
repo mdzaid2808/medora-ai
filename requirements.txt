@@ -1,0 +1,5 @@
+streamlit==1.64.0
+groq==1.7.0
+python-dotenv==1.2.4
+pillow==12.3.0
+numpy==2.5.3
